@@ -1,0 +1,81 @@
+{
+  "companies": [
+    {
+      "company_name": "株式会社トラスト防災設備",
+      "company_id": "trust-bosai"
+    },
+    {
+      "company_name": "庄野電気工事株式会社",
+      "company_id": "shono-denki"
+    },
+    {
+      "company_name": "キタックスエンジニアリング株式会社",
+      "company_id": "kitax-eng"
+    },
+    {
+      "company_name": "株式会社エイダブリューエンジニアリング",
+      "company_id": "aw-eng"
+    },
+    {
+      "company_name": "エスティーク株式会社",
+      "company_id": "estique"
+    },
+    {
+      "company_name": "管理者",
+      "company_id": "admin-strusen",
+      "is_admin": true
+    }
+  ],
+  "name_candidates": {
+    "trust-bosai": [
+      "津村 龍一"
+    ],
+    "shono-denki": [
+      "井月 大輔",
+      "阿手 貴皓",
+      "角田 一晃",
+      "小森 一宏"
+    ],
+    "estique": [
+      "前田 克之"
+    ],
+    "aw-eng": [
+      "眞榮田 拓也",
+      "港 辰郎"
+    ],
+    "kitax-eng": [
+      "小林 義実",
+      "向井 亮",
+      "妹尾 一輝",
+      "宍戸 洋介",
+      "有田 裕一"
+    ]
+  },
+  "initial_credentials": [
+    {
+      "company_id": "trust-bosai",
+      "password": "BnY3J8kJ9CiuaNJo2z"
+    },
+    {
+      "company_id": "shono-denki",
+      "password": "eXI1981bpMSDJb1a5S"
+    },
+    {
+      "company_id": "kitax-eng",
+      "password": "ZUVMDCvh2YsY9BuS5k"
+    },
+    {
+      "company_id": "aw-eng",
+      "password": "qWUSaKiDx2l1aEKP6v"
+    },
+    {
+      "company_id": "estique",
+      "password": "E8HxBJIOOjEERZeFas"
+    },
+    {
+      "company_id": "admin-strusen",
+      "password": "YIH2PIwc3f3TzHcAhs"
+    }
+  ],
+  "retention_years": 3
+}
